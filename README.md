@@ -21,6 +21,19 @@ Each lab includes:
 - Assembly code snippets used within Proteus.
 - Video narrations explaining the lab and the solution.
 
+## Demonstration of Laboratories
+
+### Lab 5
+![Lab 5 Demonstration](https://github.com/husamettyn/microprocessorCourse/blob/main/gifs/lab5.gif)
+
+### Lab 6
+![Lab 6 Demonstration](https://github.com/husamettyn/microprocessorCourse/blob/main/gifs/lab6.gif)
+
+### Lab 7
+![Lab 7 Demonstration](https://github.com/husamettyn/microprocessorCourse/blob/main/gifs/lab7.gif)
+
+### Lab 8
+![Lab 8 Demonstration](https://github.com/husamettyn/microprocessorCourse/blob/main/gifs/lab8.gif)
 
 ## Additional Resources
 - **Intel 8086 Instruction Set**
