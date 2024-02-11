@@ -1,7 +1,7 @@
 # Microprocessors and Assembly Course
 
 ## Course Overview
-These are my codes and Proteus projects for the "Microprocessors and Assembly" course.
+These are my codes and Proteus projects for the "Microprocessors and Assembly" course. You can watch how they work through the gifs file.
 
 In this course, `Intel 8086` is used as a microprocessor and the instructions of this processor are taught. The microprocessor part of this course uses `Proteus (Version 8.6.SP2)`. If you want to run the projects, make sure that the version is at least `8.6.SP2`.
 
